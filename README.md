@@ -7,6 +7,9 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chm2006)](https://solved.ac/chm2006)
 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=chm2006&theme=cold)
+<img src="http://mazandi.herokuapp.com/api?handle=chm2006&theme=cold"/>
+
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blogan99.tistory.com/)](https://blogan99.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chm20060@gmail.com)](mailto:chm20060@gmail.com)

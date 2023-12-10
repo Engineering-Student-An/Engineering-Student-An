@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEngineering-Student-An&count_bg=%235393F6&title_bg=%232B4CC4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![AN CHANG MIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Engineering-Student-An&show_icons=true&theme=tokyonight)
+![AN CHANG MIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Engineering-Student-An&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Engineering-Student-An&layout=donut)](https://github.com/Engineering-Student-An/github-readme-stats)
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chm2006)](https://solved.ac/chm2006) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=chm2006&theme=cold)

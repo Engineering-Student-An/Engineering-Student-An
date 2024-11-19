@@ -4,8 +4,6 @@
 
 ![AN CHANG MIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Engineering-Student-An&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Engineering-Student-An&layout=donut)](https://github.com/Engineering-Student-An/github-readme-stats)
-
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chm2006)](https://solved.ac/chm2006) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=chm2006&theme=cold)
 

@@ -5,7 +5,7 @@
 ![AN CHANG MIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Engineering-Student-An&show_icons=true&theme=tokyonight)
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chm2006)](https://solved.ac/chm2006) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=chm2006&theme=cold)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chm2006)](https://solved.ac/chm2006)
 
 
 # :mailbox_with_mail: Contacts

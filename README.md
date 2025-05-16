@@ -1,6 +1,6 @@
 # AN CHANG MIN
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CCAF7D2&center=true&vCenter=true&width=435&lines=%ED%95%98%EB%A3%A8%EC%97%90+%ED%95%9C+%EA%B1%B8%EC%9D%8C%EC%94%A9!+%EC%8B%A0%EC%9E%85+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%95%88%EC%B0%BD%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=4CCAF7D2&center=true&vCenter=true&multiline=true&width=435&height=60&lines=one+step+a+day!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.+%EC%8B%A0%EC%9E%85+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%95%88%EC%B0%BD%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 ![AN CHANG MIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Engineering-Student-An&show_icons=true&theme=tokyonight)
 

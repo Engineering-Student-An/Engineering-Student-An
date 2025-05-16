@@ -44,7 +44,17 @@
 </div>
 <br/><br/>
 
-![AN CHANG MIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Engineering-Student-An&show_icons=true&theme=tokyonight)
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Engineering-Student-An&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <a href="https://solved.ac/chm2006">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chm2006" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chm2006)](https://solved.ac/chm2006)
 

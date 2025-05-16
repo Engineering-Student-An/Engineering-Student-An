@@ -24,10 +24,13 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
     </div>
 </div>
+<br/>
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://blogan99.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://blogan99.tistory.com"> </a>
-         <a href=mailto:chm20060@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:chm20060@gmail.com"> </a>
+    <h2 style="color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
+    <div align= "center"> 
+        <a href=https://blogan99.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://blogan99.tistory.com"> </a>
+        <a href=mailto:chm20060@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:chm20060@gmail.com"> </a>
+        <a href=mailto:chm2006@naver.com> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:chm2006@naver.com"> </a>
     </div> 
 </div>
     
@@ -42,4 +45,4 @@
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blogan99.tistory.com/)](https://blogan99.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chm20060@gmail.com)](mailto:chm20060@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:chm2006@naver.com)](mailto:chm2006@naver.com)
+

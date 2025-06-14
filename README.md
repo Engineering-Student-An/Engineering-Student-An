@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:F8B195,50:F67280,100:C06C84,text:f7f5f5&height=300&section=header&text=ChangMin%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:F8B195,50:F67280,100:C06C84&textBg=f7f5f5&height=300&section=header&text=ChangMin%20Github&fontSize=90)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dongle&weight=700&size=60&duration=2000&pause=250&color=4CCAF7D2&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=ONE+STEP+A+DAY!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.+%EC%8B%A0%EC%9E%85+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%95%88%EC%B0%BD%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 <div align= "center">
